@@ -1,2 +1,7 @@
 # Arquitectura-de-Computadores
-University's Subject 
+UTEQ
+Ingeniería de Software
+Segundo Semestre, paralelo "A"
+Estudiantes:
+Gilces José
+Mendoza Allan
